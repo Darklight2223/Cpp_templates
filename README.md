@@ -1,4 +1,4 @@
-# C++ Templates for Competitive Programming & FAANG Interviews
+# C++ Templates for Competitive Programming.
 
 This repo contains clean and reusable C++ templates categorized by topic.
 
